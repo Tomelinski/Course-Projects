@@ -1,0 +1,14 @@
+﻿  Horse.cpp
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Random.cpp(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Console.cpp(39,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Horse.cpp(28,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Horse.cpp(67,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Random.cpp
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Random.cpp(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Console.cpp(39,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Random.cpp(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Horse.cpp(28,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Lab04HorseRace\Horse.cpp(67,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Lab04HorseRace.vcxproj -> C:\Users\tomzi\Desktop\School 2019-20\Semester 2\OOP\Labs\Lab04HorseRace\Debug\Lab04HorseRace.exe
